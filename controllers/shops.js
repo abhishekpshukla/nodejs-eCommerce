@@ -1,0 +1,2 @@
+const adminData = require('./admin');
+

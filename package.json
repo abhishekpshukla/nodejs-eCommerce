@@ -1,0 +1,24 @@
+{
+  "name": "nh-ecommerce",
+  "version": "1.0.0",
+  "description": "This is an open source Ecommerce code build using nodeJS",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "nodejs"
+  ],
+  "author": "Abhishek Pradeep Shukla",
+  "license": "ISC"
+}
